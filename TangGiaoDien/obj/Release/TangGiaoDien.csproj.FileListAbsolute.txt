@@ -1,0 +1,93 @@
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\ResolveAssemblyReference.cache
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoNgay.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoThang.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoNgay.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoThang1.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuGoiTien.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuRutTien.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrSoTietKiem.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrTraCuu.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.GiaoDienChinh.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.MH_DangNhap.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.Properties.Resources.resources
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.csproj.GenerateResource.Cache
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.exe.licenses
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\TangGiaoDien.exe
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\TangGiaoDien.pdb
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\BUS.dll
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\DTO.dll
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\DAO.dll
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\DTO.pdb
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\DAO.pdb
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\BUS.pdb
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.exe
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.exe
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\ResolveAssemblyReference.cache
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoNgay.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoThang.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoNgay.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoThang1.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuGoiTien.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuRutTien.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrSoTietKiem.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrTraCuu.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.GiaoDienChinh.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.MH_DangNhap.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.Properties.Resources.resources
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.exe.licenses
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\TangGiaoDien.exe
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\TangGiaoDien.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\BUS.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\DTO.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\DAO.dll
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\BUS.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\DTO.pdb
+D:\HK1(02.2012)\NHAP MON CONG NGHE PHAN MEM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\bin\Release\DAO.pdb
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.exe
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.pdb
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.csprojResolveAssemblyReference.cache
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoNgay.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoThang.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoNgay.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoThang1.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuGoiTien.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuRutTien.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrSoTietKiem.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.FrTraCuu.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.GiaoDienChinh.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.MH_DangNhap.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.Properties.Resources.resources
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.csproj.GenerateResource.Cache
+D:\HK5\Cong nghe phan mem\DoAn_ThamKhao\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.exe.licenses
+E:\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.exe
+E:\DoAn_PhanMem\TangGiaoDien\obj\Release\TangGiaoDien.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.exe
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.pdb
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\bin\Release\TangGiaoDien.exe.config
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoNgay.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrBaoCaoThang.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoNgay.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrChiTietBaoCaoThang1.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuGoiTien.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrPhieuRutTien.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrSoTietKiem.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrThayDoiQuyDinh.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.FrTraCuu.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.GiaoDienChinh.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.MH_DangNhap.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.Properties.Resources.resources
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.exe.licenses

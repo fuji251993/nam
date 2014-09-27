@@ -1,0 +1,330 @@
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\BUS.dll
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DTO.dll
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DAO.dll
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\BUS.pdb
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DTO.pdb
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DAO.pdb
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+E:\Learns\HCDH\NM_CongNghePhanMem\BaiTap\CNPM\cuoi ky\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\BUS.dll
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DTO.dll
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DAO.dll
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\BUS.pdb
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DTO.pdb
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DAO.pdb
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+D:\nmpm\New folder\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\BUS.dll
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DTO.dll
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DAO.dll
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\BUS.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\bin\Debug\DAO.pdb
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien._123.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+D:\nmpm\DoAn\0842064_QLSOTIETKIEM\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien._123.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\bin\Debug\BUS.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\bin\Debug\DAO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\bin\Debug\BUS.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem\TangGiaoDien\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\bin\Debug\BUS.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\bin\Debug\DAO.dll
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\bin\Debug\BUS.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien._123.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\WIN7\Desktop\Dev so tiet kiem2\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien._123.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\nmpm\DoAn\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+D:\nmpm\DoAn\1142018\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+D:\nmpm\DoAn\1142018\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+D:\nmpm\DoAn\1142018\TangGiaoDien\bin\Debug\BUS.dll
+D:\nmpm\DoAn\1142018\TangGiaoDien\bin\Debug\DTO.dll
+D:\nmpm\DoAn\1142018\TangGiaoDien\bin\Debug\DAO.dll
+D:\nmpm\DoAn\1142018\TangGiaoDien\bin\Debug\BUS.pdb
+D:\nmpm\DoAn\1142018\TangGiaoDien\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\1142018\TangGiaoDien\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien._123.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\bin\Debug\BUS.dll
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\bin\Debug\DAO.dll
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\bin\Debug\BUS.pdb
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\1142018\TangGiaoDien\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\bin\Debug\BUS.dll
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\bin\Debug\DTO.dll
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\bin\Debug\DAO.dll
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\bin\Debug\BUS.pdb
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\bin\Debug\DTO.pdb
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\bin\Debug\DAO.pdb
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien._123.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\WIN7\Desktop\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\BUS.dll
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\DTO.dll
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\DAO.dll
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\office.dll
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\BUS.pdb
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\DTO.pdb
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\DAO.pdb
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\office.xml
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien._123.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.Frmain.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+D:\nmpm\DoAn\moi\1142018_dy\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\BUS.dll
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\DTO.dll
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\DAO.dll
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\office.dll
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\DAO.pdb
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\BUS.pdb
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\bin\Debug\DTO.pdb
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrChiTietBaoCaoNgay.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.csproj.GenerateResource.Cache
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+D:\BaiTap\new\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrChiTietBaoCaoThang1.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\BUS.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\DTO.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\DAO.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\office.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\DAO.pdb
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\BUS.pdb
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\bin\Debug\DTO.pdb
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrChiTietBaoCaoNgay.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrChiTietBaoCaoThang1.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.csproj.GenerateResource.Cache
+D:\BaiTap\PM_2\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\TangGiaoDien.exe
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\TangGiaoDien.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\BUS.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\DTO.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\DAO.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\office.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\DAO.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\BUS.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\bin\Debug\DTO.pdb
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\ResolveAssemblyReference.cache
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoNgay.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrBaoCaoThang.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrChiTietBaoCaoNgay.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrChiTietBaoCaoThang1.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuGoiTien.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrPhieuRutTien.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrSoTietKiem.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiLoaiTietKiem.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrThayDoiQuyDinh.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.FrTraCuu.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.GiaoDienChinh.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.MH_DangNhap.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.Properties.Resources.resources
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.csproj.GenerateResource.Cache
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.exe.licenses
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+D:\BaiTap\PM_3\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.exe
+D:\NEW\CNPM\DoAn_PhanMem_8_6\DoAn_PhanMem\TangGiaoDien\obj\Debug\TangGiaoDien.pdb
