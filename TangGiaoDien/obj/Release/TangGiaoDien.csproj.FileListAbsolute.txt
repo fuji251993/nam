@@ -91,3 +91,4 @@ C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTI
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.Properties.Resources.resources
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.csproj.GenerateResource.Cache
 C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.exe.licenses
+C:\Users\My PC\Desktop\tai lieu\a\megacode_doan_quanlysotietkiem\DOAN_QUANLYSOTIETKIEM\TangGiaoDien\obj\Release\TangGiaoDien.Test.resources
